@@ -1,0 +1,25 @@
+.asmar{
+  height: 160px;
+  justify-content: center;
+  background-color: aqua;
+}
+body{
+  background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);
+}
+.button{
+  background: #3b93a3;
+  border: none;
+  padding: 10px 20px;
+  color: whitel;
+}
+.mian{
+  margin-top: 200px
+  ;
+}
+.color-change{
+  text-decoration: #3b93a3;
+  box-shadow:#ff9a9e;
+}
+.mycolor{
+  text-decoration: #3b93a3 !important;
+}
